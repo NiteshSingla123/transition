@@ -13,7 +13,7 @@
     border:2px solid orange;
     background-color: aqua;
 
-    /* transition: 2s; */
+     transition: 2s; 
 
     /* transition-property: background-color; */
     /* transition-delay: 5s; */
