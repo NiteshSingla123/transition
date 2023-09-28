@@ -15,7 +15,7 @@
 
      transition: 2s; 
 
-    /* transition-property: background-color; */
+     transition-property: background-color; 
     /* transition-delay: 5s; */
 
     /* transition:  background-color 0.3s ease ; */
